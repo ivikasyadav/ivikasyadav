@@ -7,6 +7,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=0E75B6&center=true&vCenter=true&width=435&lines=Backend+Engineer;Open+Source+Contributor;Performance+Optimizer;Lifelong+Learner" alt="Typing SVG" />
+</p>
+
 - 🔭 I’m currently working on **real-time finance tools at Fintellect**
 - 🌱 I’m currently learning **AWS & Next.js**
 - 💬 Ask me about **FastAPI, WebSockets, MongoDB, or system design**
@@ -16,7 +20,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -34,27 +38,27 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="left"> 
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ivikasyadav&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="ivikasyadav" />
-  </a> 
+  </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ivikasyadav&show_icons=true&theme=tokyonight" alt="ivikasyadav" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivikasyadav&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🔗 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vikas-yadav-629622325" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -65,3 +69,18 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" alt="Leetcode" height="30" width="40"/>
   </a>
 </p>
+
+---
+
+### 🌟 Featured Projects
+- [**Fintellect**](https://github.com/ivikasyadav/fintellect) - Real-time finance tools for smarter decisions.
+- [**FastAPI Boilerplate**](https://github.com/ivikasyadav/fastapi-boilerplate) - Production-ready FastAPI template.
+- [**Node.js WebSockets Demo**](https://github.com/ivikasyadav/node-websockets-demo) - Real-time communication made simple.
+
+---
+
+### 📢 Fun Fact
+> “I enjoy optimizing performance like others enjoy optimizing playlists.”
+
+---
+
